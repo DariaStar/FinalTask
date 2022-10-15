@@ -15,4 +15,5 @@
 4. Вывести получившийся массив.
 
 Блок-схема алгоритма:
+
 ![Блок-схема алгоритма](https://github.com/DariaStar/FinalTask/blob/main/Diagram.drawio.png?raw=true)
